@@ -10,6 +10,10 @@ This project started as a personal attempt to explore WHO health data and discov
 
 ![WHO Health Analysis Dashboard](WHO_Health_Analysis_Dashboard.png)
 
+### Geographic Distribution Map
+
+![WHO Health Analysis Map](WHO_Health_Analysis_Map.png)
+
 ## 1. Dashboard Overview
 
 The dashboard brings together different health indicators in one place, making it easier to explore and compare the data.
