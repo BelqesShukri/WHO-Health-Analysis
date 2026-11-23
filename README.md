@@ -8,7 +8,7 @@ This project started as a personal attempt to explore WHO health data and discov
 
 ## Dashboard Preview
 
-![WHO Health Analysis Dashboard](images/WHO_Health_Analysis_Dashboard.png)
+![WHO Health Analysis Dashboard](WHO_Health_Analysis_Dashboard.png)
 
 ## 1. Dashboard Overview
 
