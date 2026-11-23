@@ -32,15 +32,34 @@ It includes:
 
 ## 2. Key Findings
 
-While exploring the dashboard, I noticed several interesting patterns:
+While exploring the data, I identified several interesting patterns across different health indicators.
 
-- **Total Deaths:** The dashboard shows approximately 128.09K recorded deaths.
-- **Child Mortality:** Under-five mortality is the largest category, with 60,562 recorded deaths.
-- **Disease Categories:** Non-communicable diseases account for 12,934 deaths, followed by HIV infections (7,035) and tuberculosis (4,993).
-- **Violence:** Homicide deaths (12,828) are slightly higher than suicide deaths (11,804).
-- **Gender Distribution:** Female deaths represent 66.74% of the total, while male deaths represent 33.26%.
-- **Yearly Trends:** Recorded deaths show a general decline between 2021 and 2024, followed by an increase in 2025.
-- **Country Comparison:** The Republic of Moldova appears at the top of the displayed country ranking, with 802 recorded deaths.
+| Health Indicator | Recorded Deaths |
+|---|---:|
+| Under-five Mortality | 60,562 |
+| Non-communicable Diseases | 12,934 |
+| Homicide | 12,828 |
+| Suicide | 11,804 |
+| HIV Infections | 7,035 |
+| Tuberculosis | 4,993 |
+
+### Additional Observations
+
+| Indicator | Result |
+|---|---:|
+| Total Recorded Deaths | 128.09K |
+| Female Deaths | 66.74% |
+| Male Deaths | 33.26% |
+
+**Yearly Trend:**
+
+The dashboard shows a general decline in recorded deaths between 2021 and 2024, followed by an increase in 2025.
+
+**Country Comparison:**
+
+The Republic of Moldova ranks first among the displayed top 10 countries, with 802 recorded deaths.
+
+---.
 
 ## 3. Tools & Skills
 
@@ -93,9 +112,7 @@ This project is for learning and portfolio purposes. The findings are based on t
 
 بدأ هذا المشروع كمحاولة شخصية لاستكشاف بيانات منظمة الصحة العالمية والتعرف على النتائج التي يمكن الوصول إليها من خلال تحليل البيانات. استخدمت Power BI لتنظيم البيانات واستكشاف المؤشرات الصحية وتحويل النتائج إلى لوحة معلومات تفاعلية.
 
-## معاينة لوحة المعلومات
 
-![لوحة تحليل البيانات الصحية](images/WHO_Health_Analysis_Dashboard.png)
 
 ## 1. نظرة عامة على لوحة المعلومات
 
@@ -113,17 +130,36 @@ This project is for learning and portfolio purposes. The findings are based on t
 - توزيع الوفيات حسب الجنس.
 - فلاتر تفاعلية حسب السنة والجنس والدولة والنطاق.
 
+
+
 ## 2. أهم النتائج والتحليلات
 
-أثناء استكشاف البيانات وتحليلها، لاحظت مجموعة من النتائج والأنماط:
+أثناء استكشاف البيانات، لاحظت مجموعة من الأنماط والاختلافات بين المؤشرات الصحية.
 
-- **إجمالي الوفيات:** تعرض لوحة المعلومات حوالي 128.09 ألف حالة وفاة مسجلة.
-- **وفيات الأطفال:** تمثل وفيات الأطفال دون سن الخامسة أكبر فئة، بإجمالي 60,562 حالة.
-- **فئات الأمراض:** سجلت الأمراض غير المعدية 12,934 حالة، تليها الإصابة بفيروس HIV بعدد 7,035 حالة، ثم السل بعدد 4,993 حالة.
-- **العنف:** سجلت وفيات جرائم القتل 12,828 حالة، وهي أعلى قليلًا من حالات الانتحار البالغة 11,804 حالة.
-- **التوزيع حسب الجنس:** تمثل الإناث 66.74% من الإجمالي، مقابل 33.26% للذكور.
-- **التغير السنوي:** يظهر انخفاض عام في الوفيات المسجلة بين 2021 و2024، يليه ارتفاع في عام 2025.
-- **مقارنة الدول:** ظهرت جمهورية مولدوفا في المرتبة الأولى ضمن ترتيب الدول المعروض، بعدد 802 حالة وفاة.
+| المؤشر الصحي | عدد الوفيات المسجلة |
+|---|---:|
+| وفيات الأطفال دون الخامسة | 60,562 |
+| الأمراض غير المعدية | 12,934 |
+| جرائم القتل | 12,828 |
+| الانتحار | 11,804 |
+| الإصابة بفيروس HIV | 7,035 |
+| السل | 4,993 |
+
+### ملاحظات إضافية
+
+| المؤشر | النتيجة |
+|---|---:|
+| إجمالي الوفيات المسجلة | 128.09 ألف |
+| وفيات الإناث | 66.74% |
+| وفيات الذكور | 33.26% |
+
+**التغير السنوي:**
+
+تُظهر لوحة المعلومات انخفاضًا عامًا في الوفيات المسجلة بين عامي 2021 و2024، تلاه ارتفاع في عام 2025.
+
+**مقارنة الدول:**
+
+جاءت جمهورية مولدوفا في المرتبة الأولى ضمن أعلى 10 دول المعروضة، بعدد 802 حالة وفاة.
 
 ## 3. الأدوات والمهارات المستخدمة
 
